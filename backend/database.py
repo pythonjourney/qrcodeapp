@@ -1,6 +1,7 @@
 import motor.motor_asyncio
 
 # MongoDB connection string
+
 MONGO_DETAILS = ''
 
 # Create an asynchronous MongoDB client
